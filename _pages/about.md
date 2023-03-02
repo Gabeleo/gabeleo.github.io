@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: /
+permalink: /about
 subtitle: <a href='projects'>Affiliations</a>. Big. Smelly. Baby.
 
 profile:
