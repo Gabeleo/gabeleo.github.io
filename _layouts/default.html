@@ -16,9 +16,13 @@
     {%- include header.html %}
 
     <!-- Content -->
-    <div class="container mt-5">
-      {{ content }}
-    </div>
+    {% if page.fill %}
+      <div class="container-fluid mt-5 mb-10">
+    {% else %}
+      <div class="container mt-5 mb-5">
+    {% endif %}
+    {{ content }}
+      </div>
 
     <!-- Footer -->
     {%- include footer.html %}

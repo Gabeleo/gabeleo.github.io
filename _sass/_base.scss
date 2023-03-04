@@ -460,6 +460,23 @@ footer.sticky-bottom {
   }
 }
 
+.portfolio-grid {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.grid-item {
+  width: calc(25% - 5px);
+  margin-bottom: 5px;
+}
+
+.grid-item img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
 
 // Publications
 
