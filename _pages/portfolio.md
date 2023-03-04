@@ -9,6 +9,7 @@ horizontal: false
 fill: true
 ---
 
+<div class="portfolio-grid" data-masonry='{ "itemSelector": ".grid-item", "columnWidth": 20}' >
   {% for image in site.static_files %}
         {% if image.path contains 'assets/img/portfolio_images' %}
             <div class="grid-item">
