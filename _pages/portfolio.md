@@ -13,7 +13,8 @@ fill: true
   {% for image in site.static_files %}
         {% if image.path contains 'assets/img/portfolio_images' %}
             <div class="grid-item">
-                {% include figure.html path=image.path class="z-depth-1"%}
+                {% include figure.html path=image.path class="z-depth-1" loading="lazy"
+                %}
             </div>
         {% endif %}
     {% endfor %}
