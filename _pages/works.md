@@ -5,7 +5,6 @@ permalink: /works/
 nav: true
 nav_order: 3
 display_categories: [2023, 2022]
-horizontal: false
 ---
 
 <!-- pages/projects.md -->
