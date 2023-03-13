@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ONE
-img: assets/img/portfolio_images/1_.jpg
-importance: 1
-category: 2023
+img: #image path
+importance: 1 #changes order in which is it appeared in the year
+category: #year number
 ---
 
 <div class="row">
@@ -13,5 +13,5 @@ category: 2023
     </div>
 </div>
 <div class="caption">
-    ONE. 03/02/2023. 5" X 7". OIL ON CANVAS.
+    ONE. 03/02/2023. 5" X 7". OIL ON CANVAS. 
 </div>
