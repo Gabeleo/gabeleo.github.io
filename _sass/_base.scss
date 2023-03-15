@@ -432,7 +432,7 @@ footer.sticky-bottom {
 
     &:hover {
       .card-hoverable {
-        opacity: 0.5;
+        opacity: 0.75;
       }
       .project-title {
         display: block;
@@ -448,6 +448,12 @@ footer.sticky-bottom {
       background-color: rgba(0, 0, 0, 0);
       padding: 10px;
       color: var(--global-text-color);
+
+      h3{
+        color: var(--global-theme-color);
+        font-weight: 700;
+        font-size: 3rem;
+      }
     }
   }
 
