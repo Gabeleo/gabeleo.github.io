@@ -3,7 +3,7 @@ layout: page
 title: Works
 permalink: /works/
 nav: true
-nav_order: 3
+nav_order: 1
 display_categories: [2023, 2022]
 ---
 

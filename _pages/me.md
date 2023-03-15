@@ -5,7 +5,7 @@ permalink: /info
 
 social: true  # includes social icons at the bottom of the page
 nav: true
-nav_order: 3
+nav_order: 2
 
 profile:
   image: prof_pic.png
