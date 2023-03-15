@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ONE
-img: assets/img/portfolio_images/1_.jpg
+img: assets/img/portfolio_images/1_.jpg #image file name
 importance: 1
 category: 2023
 ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% assign img_path = page.img%}
+        {% assign img_path = page.img %}
         {% include figure.html path=img_path  class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

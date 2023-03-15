@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "masonry-layout": "^4.2.2"
+    "masonry-layout": "^4.2.2",
+    "vscode-html-languageservice": "^5.0.4"
   }
 }
