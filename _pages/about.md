@@ -1,6 +1,5 @@
 ---
 layout: about
-title: Me
 permalink: /
 social: true  # includes social icons at the bottom of the page
 ---

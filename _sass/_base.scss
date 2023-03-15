@@ -24,6 +24,9 @@ table {
 
 a, table.table a {
   color: var(--global-theme-color);
+  span{
+  color: var(--global-theme-color);
+  }
   &:hover {
     color: var(--global-theme-color);
     text-decoration: underline;
@@ -337,6 +340,9 @@ footer.sticky-bottom {
   padding-bottom: 3rem;
   h1 {
     color: var(--global-theme-color);
+    span{
+      color: var(--global-theme-color);
+    }
     font-size: 5rem;
   }
 }
@@ -480,6 +486,11 @@ footer.sticky-bottom {
   height: auto;
 }
 
+//Info/ Me
+
+.info{
+  margin-top: 2rem;
+}
 
 // Publications
 
@@ -487,6 +498,9 @@ footer.sticky-bottom {
   margin-top: 2rem;
   h1 {
     color: var(--global-theme-color);
+    span{
+      color: var(--global-theme-color);
+    }
     font-size: 2rem;
     text-align: center;
     margin-top: 1em;
