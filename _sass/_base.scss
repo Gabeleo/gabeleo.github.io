@@ -431,10 +431,23 @@ footer.sticky-bottom {
     text-decoration: none;
 
     &:hover {
-      opacity: 0.5;
-      .card-title {
-        color: var(--global-text-color-light);
+      .card-hoverable {
+        opacity: 0.5;
       }
+      .project-title {
+        display: block;
+      }
+    }
+
+    .project-title {
+      display: none;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      background-color: rgba(0, 0, 0, 0);
+      padding: 10px;
+      color: var(--global-text-color);
     }
   }
 
@@ -453,6 +466,7 @@ footer.sticky-bottom {
       align-items: center;
     }
   }
+
 
   .grid-sizer, .grid-item {
     width: 400px;

@@ -29,6 +29,10 @@
       onerror="this.onerror=null; $('.responsive-img-srcset').remove();"
     />
 
+    <div class="project-title">
+      <h3 class="project-text">{{ project.title }}</h3>
+    </div>
+
   </picture>
 
   {%- if include.caption -%}<figcaption class="caption">{{ include.caption }}</figcaption>{%- endif %}
