@@ -2,18 +2,18 @@
 layout: default
 ---
 <!-- page.html -->
-        <div class="post">
+<div class="post">
 
-          <header class="post-header">
-            {% if page.title == "Works" -%}
-              <h1 class="post-title" style="margin-bottom: -2.5rem;">{{ page.title }}</h1>
-            {% else -%}
-              <h1 class="post-title">{{ page.title }}</h1>
-            {%- endif %}
-          </header>
+  <header class="post-header">
+    {% if page.title == "Works" -%}
+      <h1 class="post-title" style="margin-bottom: -2.5rem;">{{ page.title }}</h1>
+    {% else -%}
+      <h1 class="post-title">{{ page.title }}</h1>
+    {%- endif %}
+  </header>
 
-          <article>
-            {{ content }}
-          </article>
+  <article>
+    {{ content }}
+  </article>
 
-        </div>
+</div>
