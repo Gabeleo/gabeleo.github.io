@@ -13,7 +13,8 @@
         <div class="col-md-6">
         {%- else -%}
         {%- endif -%}
-         <!--  <div class="card-body">
+        {%- if site.enable_project_card -%}
+          <div class="card-body">
             <h3 class="card-title text-lowercase">{{ project.title }}</h3>
             <p class="card-text">{{ project.description }}</p>
             <div class="row ml-1 mr-1 p-0">
@@ -31,7 +32,8 @@
               </div>
               {%- endif -%}
             </div>
-          </div> -->
+          </div>
+        {%- endif -%}
         </div>
       </div>
     </div>
