@@ -1,6 +1,6 @@
 ---
 layout: page
-title: “Votive Tree (Portal 2)"
+title: “Votive Tree"
 img: assets/img/portfolio_images/4_.jpeg
 importance: 2
 category: 2022

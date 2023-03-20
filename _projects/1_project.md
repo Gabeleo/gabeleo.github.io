@@ -1,6 +1,6 @@
 ---
 layout: page
-title: “Nervous Dog (Projection 2)"
+title: “Nervous Dog"
 img: assets/img/portfolio_images/1_.jpeg #image file name
 importance: 1
 category: 2023

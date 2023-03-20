@@ -1,6 +1,6 @@
 ---
 layout: page
-title: “Empathy Bath (Portal 1)"
+title: “Empathy Bath"
 img: assets/img/portfolio_images/3_.jpeg
 importance: 1
 category: 2022
