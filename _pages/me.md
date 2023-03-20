@@ -8,7 +8,7 @@ nav: true
 nav_order: 2
 
 profile:
-  image: prof_pic.png
+  image: prof_pic.jpg
   image_align: right
 ---
 Rosemary Matthews is an emerging artist living and working in Gainesville, FL.

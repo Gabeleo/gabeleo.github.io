@@ -8,7 +8,6 @@ middle_name:
 last_name: MATTHEWS
 email: romatthews@ufl.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
- 
 footer_text: >
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
@@ -95,7 +94,6 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 
 contact_note: >
-  “Art should comfort the disturbed and disturb the comfortable.” 
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification

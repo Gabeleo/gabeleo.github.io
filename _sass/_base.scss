@@ -321,6 +321,12 @@ footer.sticky-bottom {
       }
     }
   }
+
+  figure, img {
+    max-width: 75vw;
+    margin: 0 0 0rem;
+  }
+
 }
 
 // Repositories
@@ -472,10 +478,9 @@ footer.sticky-bottom {
     }
   }
 
-
+  /* width changes the size of the images (img) in the portfolio */
   .grid-sizer, .grid-item {
-    width: 400px;
-    margin-bottom: 0px;
+    width: 395px;
   }
 
   h2.category {
@@ -490,13 +495,13 @@ footer.sticky-bottom {
 
 .grid-item {
   width: calc(25% - 5px);
-  margin-bottom: 5px;
 }
 
 .grid-item img {
   display: block;
   width: 100%;
   height: auto;
+  padding: 5px;
 }
 
 // Information or Me page
