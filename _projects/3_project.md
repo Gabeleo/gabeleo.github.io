@@ -1,6 +1,6 @@
 ---
 layout: page
-title: THREE
+title: “Empathy Bath (Portal 1)"
 img: assets/img/portfolio_images/3_.jpeg
 importance: 1
 category: 2022
@@ -13,5 +13,7 @@ category: 2022
     </div>
 </div>
 <div class="caption">
-    THREE. 03/02/2023. 5" X 7". OIL ON CANVAS.
+    “Empathy Bath (Portal 1)"
+    18” x 24”
+    oil on canvas
 </div>

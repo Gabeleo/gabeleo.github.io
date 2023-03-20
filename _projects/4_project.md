@@ -1,6 +1,6 @@
 ---
 layout: page
-title: FOUR
+title: “Votive Tree (Portal 2)"
 img: assets/img/portfolio_images/4_.jpeg
 importance: 2
 category: 2022
@@ -13,5 +13,7 @@ category: 2022
     </div>
 </div>
 <div class="caption">
-    FOUR. 03/02/2023. 5" X 7". OIL ON CANVAS.
+    “Votive Tree (Portal 2)"
+    18” x 24”
+    oil on canvas
 </div>

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ONE
+title: “Nervous Dog (Projection 2)"
 img: assets/img/portfolio_images/1_.jpeg #image file name
 importance: 1
 category: 2023
@@ -13,5 +13,7 @@ category: 2023
     </div>
 </div>
 <div class="caption">
-    ONE. 03/02/2023. 5" X 7". OIL ON CANVAS.
+    “Nervous Dog (Projection 2)"
+    17” x 11"
+    oil on canvas
 </div>
