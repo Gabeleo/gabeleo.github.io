@@ -4,7 +4,7 @@ title: Works
 permalink: /works/
 nav: true
 nav_order: 1
-display_categories: [2023, 2022]
+display_categories: [2023, 2022, 2021, 2020, 2019]
 ---
 
 <!-- pages/projects.md -->

@@ -11,6 +11,8 @@ profile:
   image: prof_pic.png
   image_align: right
 ---
-this is a test to see how this does <br>
-We could modify a lot in here. <br>
-Gotta see how she would want it to look like.
+Rosemary Matthews is an emerging artist living and working in Gainesville, FL.
+She received her BFA in painting in 2023 as well as a certificate in graphic design.
+She is deeply inspired by her surrounding environment and strives to portray the hidden mysteries that lie dormant around us.
+Through her paintings she hopes to combat cynicism by highlighting the beauty and wonder that can be found in the mundane.
+

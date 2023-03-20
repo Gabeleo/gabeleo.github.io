@@ -1,8 +1,8 @@
 ---
 layout: page
 title: FOUR
-img: assets/img/portfolio_images/4_.jpg
-importance: 4
+img: assets/img/portfolio_images/4_.jpeg
+importance: 2
 category: 2022
 ---
 

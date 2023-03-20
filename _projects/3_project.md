@@ -1,8 +1,8 @@
 ---
 layout: page
 title: THREE
-img: assets/img/portfolio_images/3_.jpg
-importance: 3
+img: assets/img/portfolio_images/3_.jpeg
+importance: 1
 category: 2022
 ---
 

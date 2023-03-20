@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ONE
-img: assets/img/portfolio_images/1_.jpg #image file name
+img: assets/img/portfolio_images/1_.jpeg #image file name
 importance: 1
 category: 2023
 ---
