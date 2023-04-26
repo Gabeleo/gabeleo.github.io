@@ -11,7 +11,6 @@ profile:
   image: prof_pic.jpg
   image_align: right
 ---
-**Artist Statement- Rosemary Matthews, 2023**
   
   Rosemary Matthews is an emerging artist born in Milwaukee, Wisconsin and raised in
 Tampa, Florida. She graduated from the University of Florida in 2023 with a B.F.A. in painting
