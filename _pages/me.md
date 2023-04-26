@@ -3,7 +3,7 @@ layout: info
 title: Me
 permalink: /info
 
-social: false  # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 nav: true
 nav_order: 2
 
