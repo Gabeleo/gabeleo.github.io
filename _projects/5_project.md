@@ -13,5 +13,5 @@ category: 2020 #year number or year range. i.e 2023 or 2022-2023
     </div>
 </div>
 <div class="caption">
-    ONE. 03/02/2023. 5" X 7". OIL ON CANVAS. 
+    ONE. 03/02/2023. 5" X 7". OIL ON CANVA. 
 </div>
