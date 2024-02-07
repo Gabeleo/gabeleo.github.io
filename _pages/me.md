@@ -1,7 +1,7 @@
 ---
 layout: info
-title: Me
-permalink: /info
+title: About
+permalink: /about
 
 social: true # includes social icons at the bottom of the page
 nav: true
