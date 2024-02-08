@@ -2,8 +2,8 @@
 layout: page
 title: “Empathy Bath"
 img: assets/img/portfolio_images/3_.jpeg
-importance: 1
-category: 2022
+importance: 6
+category: "paintings"
 ---
 
 <div class="row">

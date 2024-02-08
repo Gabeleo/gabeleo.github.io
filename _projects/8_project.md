@@ -16,4 +16,5 @@ category: "paintings" #year number or year range. i.e 2023 or 2022-2023
     “Laid to Rest (Portal 5)"
     55” x 60"
     oil on canvas 
+    2023
 </div>

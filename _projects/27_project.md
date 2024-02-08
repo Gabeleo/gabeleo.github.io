@@ -2,8 +2,8 @@
 layout: page
 title: “Surrender/Relief"
 img: assets/img/portfolio_images/27_.jpeg #image file name
-importance: 1
-category: 2023
+importance: 2
+category: "paintings"
 ---
 
 <div class="row">
@@ -16,4 +16,5 @@ category: 2023
     “Surrender/Relief"
     24” x 36"
     oil on canvas
+    2023
 </div>
