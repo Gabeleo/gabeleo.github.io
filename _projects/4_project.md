@@ -1,9 +1,9 @@
 ---
 layout: page
 title: “Votive Tree"
-img: assets/img/portfolio_images/4_.jpeg
-importance: 2
-category: 2022
+img: assets/img/portfolio_images/33_.jpeg
+importance: 7
+category: "paintings"
 ---
 
 <div class="row">
