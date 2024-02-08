@@ -1,7 +1,7 @@
 ---
 layout: page
 title: “Empathy Bath"
-img: assets/img/portfolio_images/3_.jpeg
+img: assets/img/portfolio_images/32_.jpeg
 importance: 6
 category: "paintings"
 ---
