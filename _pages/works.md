@@ -4,7 +4,7 @@ title: Works
 permalink: /works/
 nav: true
 nav_order: 1
-display_categories: [paintings, mixed media]
+display_categories: ["paintings", "mixed media"]
 ---
 
 <!-- pages/projects.md -->
