@@ -1,9 +1,9 @@
 ---
 layout: page
-title: TWO
+title: "The Witness"
 img: assets/img/portfolio_images/2_.jpeg
-importance: 2
-category: 2019
+importance: 10
+category: "paintings"
 ---
 
 <div class="row">
@@ -13,5 +13,8 @@ category: 2019
     </div>
 </div>
 <div class="caption">
-    TWO. 03/02/2023. 5" X 7". OIL ON CANVAS.
+    "The Witness" 
+    24" x 18"
+    oil on canvas
+    2019
 </div>
