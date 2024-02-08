@@ -13,7 +13,8 @@ category: "paintings" #year number or year range. i.e 2023 or 2022-2023
     </div>
 </div>
 <div class="caption">
-    “Twin Gateway (Portal 4)"
+    “Twin Gateway"
     18” x 24”
     oil on canvas
+    2022
 </div>

@@ -13,5 +13,8 @@ category: "paintings" #year number or year range. i.e 2023 or 2022-2023
     </div>
 </div>
 <div class="caption">
-    “Maybe I’m Just Projecting (Projection 3)" 9” x 9” oil on canvas
+    “Maybe I’m Just Projecting" 
+    9” x 9” 
+    oil on canvas
+    2023
 </div>

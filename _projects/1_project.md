@@ -13,7 +13,8 @@ category: "paintings"
     </div>
 </div>
 <div class="caption">
-    “Nervous Dog (Projection 2)"
+    “Nervous Dog"
     17” x 11"
     oil on canvas
+    2023
 </div>

@@ -13,7 +13,8 @@ category: "paintings"
     </div>
 </div>
 <div class="caption">
-    “Votive Tree (Portal 2)"
+    “Votive Tree"
     18” x 24”
     oil on canvas
+    2022
 </div>
