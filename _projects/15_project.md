@@ -1,9 +1,9 @@
 ---
 layout: page #layout of the page from _layouts (if rosie dont worry about this)
 title: untitled #title of the project
-img: assets/img/portfolio_images/12_.jpeg #image path. i.e assets/img/portfolio_images/1_.jpg
-importance: 1 #changes order in which is it appeared in the year its displayed in
-category: 2021 #year number or year range. i.e 2023 or 2022-2023
+img: assets/img/portfolio_images/15_.jpeg #image path. i.e assets/img/portfolio_images/1_.jpg
+importance: 13 #changes order in which is it appeared in the year its displayed in
+category: "paintings" #year number or year range. i.e 2023 or 2022-2023
 ---
 
 <div class="row">
@@ -13,5 +13,5 @@ category: 2021 #year number or year range. i.e 2023 or 2022-2023
     </div>
 </div>
 <div class="caption">
-    digital collage, 2021. 
+    oil on paper, 2022. 
 </div>
