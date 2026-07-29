@@ -1,6 +1,0 @@
-{
-    "liquid.engine": "jekyll",
-    "liquid.format.markup": {
-        "preserveAttributes": true
-    }
-}
